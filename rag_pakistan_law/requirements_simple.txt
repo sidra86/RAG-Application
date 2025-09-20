@@ -1,0 +1,11 @@
+# Simplified requirements for Python 3.13 compatibility
+google-generativeai
+chromadb
+pypdf2
+pdfminer.six
+python-dotenv
+streamlit
+tiktoken
+numpy
+pandas
+reportlab

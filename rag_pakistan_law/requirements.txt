@@ -1,0 +1,14 @@
+# Core dependencies for RAG application
+google-generativeai==0.3.2
+chromadb==0.4.18
+pypdf2==3.0.1
+pdfminer.six==20231228
+python-dotenv==1.0.0
+streamlit==1.28.1
+langchain==0.1.0
+langchain-google-genai==0.0.5
+langchain-community==0.0.10
+tiktoken==0.5.1
+numpy==1.24.3
+pandas==2.0.3
+reportlab==4.0.4
